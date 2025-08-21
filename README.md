@@ -26,9 +26,10 @@ Dengan memodelkan faktor seperti **jarak, cuaca, dan kondisi lalu lintas**, peru
 ---
 
 ## 📎 Link Penting  
-###📂 **Project Data Science**: [Google Drive](https://drive.google.com/drive/folders/1ozbu6NxpJpzdxsO9cMOWpijmqrU5LgsB?usp=drive_link)
-###🔗 **Streamlit Live App**: [Food Delivery Time Prediction Project](https://projectfoodprediction.streamlit.app/)  
-###🛵 **Dataset**: [Food Delivery Time Prediction](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)  
+📂 **Project Data Science**: [Google Drive](https://drive.google.com/drive/folders/1ozbu6NxpJpzdxsO9cMOWpijmqrU5LgsB?usp=drive_link)
+🔗 **Streamlit Live App**: [Food Delivery Time Prediction Project](https://projectfoodprediction.streamlit.app/)  
+🛵 **Dataset**: [Food Delivery Time Prediction](https://www.kaggle.com/datasets/denkuznetz/food-delivery-time-prediction)  
+
 ---
 
 ## 📊 Dashboard Menu
